@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Indie Flower', cursive;
+}
+.top{
+  background-color: #d1f5d3;
+}
+#cloud{
+  height: 300px;
+  width: 100%;
+}
+.intro{
+  font-family: 'Lobster', cursive;
+  margin: 0 auto;
+  font-size: 50px;
+}
+.intro2{
+  font-family: 'Shadows Into Light', cursive;
+  font-style: italic;
+  font-size: 25px;
+}
+hr{
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width: 4%;
+  color: grey;
+}
+.air{
+  width: 100%;
+  background-color: #d1f5d3;
+}
+.air:hover{
+  border-style: ridge;
+  border-color: white;
+}
+.water:hover{
+  border-style: ridge;
+  border-color: white;
+}
+.earth:hover{
+  border-style: ridge;
+  border-color: white;
+}
+.fire:hover{
+  border-style: ridge;
+  border-color: white;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  color: silver;
+  font-size: 40px;
+}
+.hava{
+  position: absolute;
+  left: 70px;
+  height: 200px;
+  width: 200px;
+}
+.water{
+  background-color: #005082;
+}
+.airp{
+  width: 40%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+.su{
+  position: absolute;
+  right: 60px;
+  height: 200px;
+  width: 200px;
+}
+.waterp{
+  width: 40%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+.earth{
+  background-color: #639a67;
+}
+.fire{
+  background-color: #ff6337;
+}
+.icco{
+  width: 15%;
+  margin: 0;
+}
+a{
+  margin: 0;
+}
+.bot{
+  background-color: #681313;
+}
